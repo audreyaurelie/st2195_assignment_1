@@ -1,0 +1,16 @@
+---
+title: "assignment1"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+```{r}
+for (i in 1:10)
+{print(i)}
+```
+
+## My name is Audrey
